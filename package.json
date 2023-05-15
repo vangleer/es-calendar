@@ -2,6 +2,7 @@
   "name": "es-calendar",
   "description": "A calendar based on vue3",
   "keywords": [
+    "date",
     "calendar",
     "vue-calendar",
     "es-calendar"

@@ -200,10 +200,7 @@ function change(type: ManipulateType, num: number) {
   padding: 0;
   box-sizing: border-box;
 }
-button {
-  font-size: 16px;
-  padding: 0 6px;
-}
+
 .es-calendar {
   --es-calendar-light-bg: #fff;
   --es-calendar-black-bg: #242729;
