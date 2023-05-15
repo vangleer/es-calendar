@@ -36,7 +36,7 @@
               <div :class="n('col-wrap')">
                 <div :class="n('col-wrap-box')">
                   <div :class="n('col-inner')">
-                    {{ col.text }}
+                    <slot :data="col">{{ col.text }}</slot>
                   </div>
                 </div>
               </div>
