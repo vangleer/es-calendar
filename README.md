@@ -18,18 +18,20 @@
 
 - 默认
 
-![01](./images/01.gif)
+![01](https://vangleer.github.io/es-calendar/images/01.gif)
 
 - 切换主题、颜色
 
-![02](./images/02.gif)
+![02](https://vangleer.github.io/es-calendar/images/02.gif)
 
 - mask高亮颜色
 
-![03](./images/03.gif)
+![03](https://vangleer.github.io/es-calendar/images/03.gif)
 
 
 [源码地址](https://github.com/vangleer/es-calendar)
+
+[在线预览](https://vangleer.github.io/es-calendar)
 
 ## 使用说明
 
