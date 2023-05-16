@@ -194,7 +194,7 @@ function change(type: ManipulateType, num: number) {
 
 </script>
 
-<style lang='scss' scoped>
+<style lang='scss'>
 * {
   margin: 0;
   padding: 0;

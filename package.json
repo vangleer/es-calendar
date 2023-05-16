@@ -1,6 +1,6 @@
 {
   "name": "es-calendar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A calendar component based on vue3",
   "keywords": [
     "date",
@@ -40,6 +40,7 @@
   },
   "dependencies": {
     "dayjs": "^1.11.7",
+    "es-calendar": "^0.1.0",
     "vue": ">=3.2.0"
   },
   "devDependencies": {

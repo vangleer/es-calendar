@@ -7,8 +7,9 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue';
-import Calendar from './calendar/src/calendar.vue'
+import { ref } from 'vue'
+import 'es-calendar/lib/style.css'
+import Calendar from 'es-calendar'
 
 const date = ref(new Date())
 </script>
