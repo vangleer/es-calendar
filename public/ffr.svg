@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <text x="0" y="24" font-size="24" fill="#007774">xaFFR</text>
-  <line x1="1.5" y1="28.5" x2="68.5" y2="28.5" stroke="#007774" />
-  <text x="0" y="48" font-size="24" fill="#007774">vessel</text>
-
-  <text x="78" y="37" font-size="24" fill="#007774" font-weight="400">=</text>
-  <text x="99" y="37" font-size="24" fill="#007774">0.81</text>
-</svg>

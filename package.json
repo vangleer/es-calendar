@@ -1,5 +1,6 @@
 {
   "name": "es-calendar",
+  "version": "0.1.0",
   "description": "A calendar component based on vue3",
   "keywords": [
     "date",
@@ -34,6 +35,7 @@
     "dev": "vite",
     "build": "vue-tsc && vite build",
     "build:lib": "vite build --config vite.config.lib.ts",
+    "release": "npm run build:lib && npm publish",
     "preview": "vite preview"
   },
   "dependencies": {
